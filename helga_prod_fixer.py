@@ -13,4 +13,4 @@ RESPONSES = [
 
 @command('fix', help='Usage: helga fix <thing>')
 def fix(client, channel, nick, message, cmd, args):
-    return random.choice(RESPONSES).format(nick=nick, thing=''.join(args))
+    return random.choice(RESPONSES).format(nick=nick, thing=' '.join(args))
