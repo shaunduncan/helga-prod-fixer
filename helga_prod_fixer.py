@@ -21,6 +21,9 @@ RESPONSES = [
     'Turning {thing} off and back on again...',
     'I really wish I could, but it looks past the point of no return...',
     'I jiggled the wire. Anything?',
+    'OK -- I\'m at fuse box. Which breaker is for {thing}?',
+    'The dev who wrote {thing} no longer works here. Do we have their number?',
+    'OK! OK! I\'m signing up for AWS now...',
 ]
 
 
