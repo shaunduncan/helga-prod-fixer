@@ -20,6 +20,7 @@ RESPONSES = [
     '{thing} is only IE6 compatible. Make sure you\'re using the right browser.',
     'Turning {thing} off and back on again...',
     'I really wish I could, but it looks past the point of no return...',
+    'I jiggled the wire. Anything?',
 ]
 
 
