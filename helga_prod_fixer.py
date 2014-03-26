@@ -24,6 +24,7 @@ RESPONSES = [
     'OK -- I\'m at fuse box. Which breaker is for {thing}?',
     'The dev who wrote {thing} no longer works here. Do we have their number?',
     'OK! OK! I\'m signing up for AWS now...',
+    'Spay or neuter? I need an answer before we do this...',
 ]
 
 
