@@ -25,6 +25,13 @@ RESPONSES = [
     'The dev who wrote {thing} no longer works here. Do we have their number?',
     'OK! OK! I\'m signing up for AWS now...',
     'Spay or neuter? I need an answer before we do this...',
+    '[kicks {thing}] Anything? No? [kicks {thing} again]',
+    'I could try rebooting it in Safe Mode.',
+    'Hmmm. When was the last time you updated your anti-virus software?',
+    'We COULD try crossing the streams...',
+    'Did you notice any strange sounds coming from {thing} before it died?',
+    'So --- {thing}\'s factory warranty literally ran out a few days ago...',
+    '{nick} -- have you been drinking around {thing} again? It\'s sticky and smells like beer.',
 ]
 
 
